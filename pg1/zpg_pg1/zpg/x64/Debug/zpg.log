@@ -1,0 +1,8 @@
+﻿  PathTrace.cpp
+PathTrace.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PathTrace.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+PathTrace.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PathTrace.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+PathTrace.cpp(185): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  zpg.vcxproj -> E:\School\PG1\PG1\pg1\zpg_pg1\x64\Debug\pg1.exe
+  zpg.vcxproj -> E:\School\PG1\PG1\pg1\zpg_pg1\x64\Debug\pg1.pdb (Full PDB)
